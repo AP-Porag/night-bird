@@ -1,0 +1,19 @@
+.footer{
+  height: 150px;
+  background: #fff4ea;
+}
+
+.topper_section{
+  position: relative;
+}
+.nav_wrapper{
+  position:absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,.7);
+  height: 100%;
+}
+.navbar{
+  border-bottom: 1px solid darkred;
+}
